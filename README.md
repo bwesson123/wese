@@ -1,0 +1,2 @@
+# wesbitcoin
+Litecoin fork
